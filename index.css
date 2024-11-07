@@ -137,4 +137,8 @@ a:hover {
     right: 5%;
     left: 5%;
   }
+  .contact-info-nav {
+    display: flex;
+    flex-direction: column;
+  }
 }
